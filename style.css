@@ -1,0 +1,457 @@
+/*Index page code */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7C201;
+    color: #333; /* Adjust text color */
+}
+
+header {
+    background-color: #5B7C99;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+header img {
+    border-radius: 50%;
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Adjust the size as needed */
+    object-fit: cover;
+}
+
+header h1 {
+    margin-top: 10px;
+}
+
+header p {
+    margin-bottom: 20px;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+section {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #E5E9EC;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    color: #333; /* Adjust text color */
+}
+
+.about-me {
+    display: flex;
+    align-items: center;
+}
+
+.about-me img {
+    border-radius: 100%;
+    width: 350px; /* Adjust the size as needed */
+    height: 150px; /* Adjust the size as needed */
+    object-fit: cover;
+    margin-right: 25px;
+}
+
+.about-me-text {
+    flex-grow: 1;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color:#333 ;
+    color: #E5E9EC;
+}
+
+.footer-icons a {
+    color: #E5E9EC;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-icons i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Hobbies page code */
+
+
+.bodyHobbies {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7C201;
+    color: #333; /* Adjust text color */
+}
+
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color:#333 ;
+    color: #E5E9EC;
+}
+
+.footer-icons a {
+    color: #E5E9EC;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-icons i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+div.gallery {
+    margin: 190px -50px 100px 120px;
+    border: 4px solid white;
+    float: left;
+    width: 300px;
+    background-color: white;
+  }
+  
+  div.gallery:hover {
+    border: 4px solid #e1eedd;
+    color: #183a1d;
+    transition: transform .2s;
+    transform: scale(1.5);
+  }
+  
+  div.gallery img {
+    width: 300px;
+    height: 400px;
+    margin: 0px 0px 0px 0px;
+    
+  }
+  
+  div.desc {
+    padding: 18px;
+    text-align: center;
+  }
+  
+  
+  
+  
+
+  /*Hobbies code end*/
+  
+  
+
+
+
+  .bodyResume {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.headerResume {
+    background-color: white;
+    color: #333;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+h4 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+hr  {
+    height: 2px; 
+    background-color: black; 
+    margin-top: -15px;
+}
+
+.footer-icons a {
+    color: #E5E9EC;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-icons i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  /*Print */
+  
+  
+  div.galleryOne {
+    margin: 200px 130px 100px 120px;
+    border: 4px solid #e1eedd;
+    float: left;
+    width: 300px;
+    background-color: #e1eedd;
+  }
+  
+  div.galleryOne:hover {
+    border: 4px solid #e1eedd;
+    color: #183a1d;
+    transition: transform .2s;
+    transform: scale(1.5);
+  }
+  
+  div.galleryOne img {
+    width: 300px;
+    height: 400px;
+    margin: 0px 0px 0px 0px;
+    
+  }
+  
+  div.descOne {
+    padding: 18px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
+  /*Hobbies code end*/
+  
+
+
+
+
+
+
+  /* Projects code */
+
+    #options {
+            width: 100%;
+            padding: 12px; 
+            font-size: 16px;
+            border: 2px solid #3498db; 
+            border-radius: 5px;
+            background-color: #ecf0f1; 
+            color: #3498db; /* Text color */
+            cursor: pointer;
+        }
+
+        .description-box {
+            display: none;
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            display: flex;
+        }
+
+        .description-image {
+            width: 100px; /* Adjust the image width as needed */
+            margin-right: 20px;
+        }
+
+        .description-content {
+            flex-grow: 1;
+        }
+
+        
+
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+            font-weight: bold;
+        }
+
+        .bodyProjects {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .project {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .project img {
+            border-radius: 50%;
+            width: 300px;
+            height: 100px;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+
+        .project-details {
+            flex-grow: 1;
+        }
+
+        h2, h3 {
+            color: #333;
+        }
+
+
+
+
+  
